@@ -11,7 +11,7 @@
 #include <Hash.h>
 #include <DHT.h>
 #include <SimpleDHT.h>
-//es fehlen vielleicht noch libraries
+
 
 ///////////////////////////////////////////////////////////////////////
 ///                      Definitions                                ///
