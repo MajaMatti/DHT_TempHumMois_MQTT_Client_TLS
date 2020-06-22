@@ -34,7 +34,7 @@ float actualMoisturePercentage;
 const char* cfg_wifi_ssid = "WiFi-Name";
 const char* cfg_wifi_pwd = "WiFi-Password";
 /* MQTT */
-const char* mqtt_server = "www.majamaja.de";
+const char* mqtt_server = "www.XXXXXX.de";  //your server domain
 const unsigned int mqtt_port = 8883;
 const char* mqtt_user =   "username";    //broker username
 const char* mqtt_pass =   "password";    //broker password
